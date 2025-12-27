@@ -1,4 +1,4 @@
-package NEW;
+package EXTEND;
 
 public class Animal {
     protected String name;

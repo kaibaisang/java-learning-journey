@@ -1,4 +1,4 @@
-package NEW;
+package EXTEND;
 
 public class TextAnimal {
     public static void main(String[] args) {
